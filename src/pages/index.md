@@ -10,17 +10,17 @@ sections:
     featureslist:
       - actions:
           - label: View
-            url: sankranti.html
+            url: /docs/sankranti/
         content: Sankranti (January)
         title: Sankranti
       - actions:
           - label: View
-            url: diwali.html
+            url: /docs/diwali/
         content: Diwali
         title: Diwali
       - actions:
           - label: View
-            url: kartigai.html
+            url: /docs/kartigai
         content: ''
         title: Kartigai
     section_id: features
