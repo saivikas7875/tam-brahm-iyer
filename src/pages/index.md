@@ -1,6 +1,11 @@
 ---
 title: Home
 sections:
+  - component: HeroBlock
+    content: General information about rituals in a Tamil Brahmin Iyer household
+    image: /images/diwali-2890605_1920.jpg
+    title: Rituals
+    type: heroblock
   - component: FeaturesBlock
     featureslist:
       - actions:
