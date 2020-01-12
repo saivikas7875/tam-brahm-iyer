@@ -2,10 +2,10 @@
 title: Sankranti
 menus:
   layouts:
-    title: Bhogi
+    title: ''
   main:
-    title: Bhogi
-    weight: -1
+    title: ''
+    weight: ''
 template: page
 ---
 ### **Bhogi**
